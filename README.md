@@ -1,3 +1,5 @@
+<p style="text-align:center;">This is a fork of the original Discord bot "WildBeast" customized by Cubic<p style="text-align:center;">
+
 <p style="text-align:center;">
 <img src="http://i.imgur.com/3wB8dIH.png"></p>
 
